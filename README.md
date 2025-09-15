@@ -16,7 +16,7 @@ We wrote a text file that explains our deep dive analysis:
 - **DeepDive.txt**
 
 ### Implementation
-We built a **asp.net api** that demonstrates the system in action:
+We built a **asp.net api** project contains:
 - Models
 - Services
 - Controllers
