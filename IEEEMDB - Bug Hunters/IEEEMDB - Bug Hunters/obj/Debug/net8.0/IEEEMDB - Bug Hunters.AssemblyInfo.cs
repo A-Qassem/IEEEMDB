@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IEEEMDB - Bug Hunters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1a356cff5ab7b0a87f76e21bf52b9e062524970")]
 [assembly: System.Reflection.AssemblyProductAttribute("IEEEMDB - Bug Hunters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IEEEMDB - Bug Hunters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

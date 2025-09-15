@@ -1,4 +1,7 @@
 
+using IEEEMDB___Bug_Hunters.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace IEEEMDB___Bug_Hunters
 {
     public class Program
@@ -10,6 +13,10 @@ namespace IEEEMDB___Bug_Hunters
             // Add services to the container.
 
             builder.Services.AddControllers();
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            {
+                options.UseInMemoryDatabase("IEEEMDB");
+            });
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
