@@ -1,0 +1,6 @@
+@IEEEMDB_HostAddress = http://localhost:5250
+
+GET {{IEEEMDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
