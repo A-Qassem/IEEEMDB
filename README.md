@@ -12,7 +12,7 @@ We used **Excalidraw** to draw and organize the system design, including:
  File: [`system_design.excalidraw`](./system_design.excalidraw](https://excalidraw.com/#room=5fa0697ec8c3a9d9794f,gIWPtuqmLvSKKgIoixfGbg))
 
 ### Deep Dives
-We wrote a text file that explains our deep dive analysis, where we discussed:
+We wrote a text file that explains our deep dive analysis:
 - **DeepDive.txt**
 
 ### Implementation
