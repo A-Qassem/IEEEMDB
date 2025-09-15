@@ -3,7 +3,7 @@
 ## Project Contents
 
 ### System Design
-I used **Excalidraw** to draw and organize the system design, including:
+We used **Excalidraw** to draw and organize the system design, including:
 - **Functional & Non-Functional Requirements**
 - **Data Model**
 - **API Design**
@@ -13,7 +13,7 @@ I used **Excalidraw** to draw and organize the system design, including:
 
 ### Deep Dives
 We wrote a text file that explains our deep dive analysis, where we discussed:
--
+- **DeepDive.txt**
 
 ### Implementation
 We built a **asp.net api** that demonstrates the system in action:
