@@ -9,7 +9,7 @@ We used **Excalidraw** to draw and organize the system design, including:
 - **API Design**
 - **High-level Architecture**
 
- File: [`system_design.excalidraw`](./system_design.excalidraw](https://excalidraw.com/#room=5fa0697ec8c3a9d9794f,gIWPtuqmLvSKKgIoixfGbg))
+ File: [`system_design.excalidraw`](./IEEEMDB-Design.excalidraw](https://excalidraw.com/#room=5fa0697ec8c3a9d9794f,gIWPtuqmLvSKKgIoixfGbg))
 
 ### Deep Dives
 We wrote a text file that explains our deep dive analysis:
