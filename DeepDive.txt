@@ -1,0 +1,6 @@
+ For the Movies table i would create a B+ Tree index on the title column,
+ this will optimize search queries when users type a movie name.
+
+For the Reviews table I would index on movie id so we can quickly fetch all reviews for a specific movie
+
+I chose B+ Trees specifically because they are efficient for both equality and range queries.
