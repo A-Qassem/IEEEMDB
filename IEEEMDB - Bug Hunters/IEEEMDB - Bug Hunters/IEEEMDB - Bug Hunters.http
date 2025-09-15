@@ -1,0 +1,6 @@
+@IEEEMDB___Bug_Hunters_HostAddress = http://localhost:5148
+
+GET {{IEEEMDB___Bug_Hunters_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
